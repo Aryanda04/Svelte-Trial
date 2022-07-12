@@ -7,6 +7,8 @@
 
 <style>
   .container {
+    display: block;
+    margin: 0 auto;
     width: 500px;
     background: #009579;
   }
